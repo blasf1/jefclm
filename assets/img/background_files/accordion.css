@@ -1,0 +1,23 @@
+/*---------------------------------- accordion  ---------------------------------*/
+
+.ime-accordion-container {
+    overflow:hidden;
+    height:auto;
+    width: 100%;
+}
+
+
+.ime-accordion-container .pagination {
+	padding-left: 36px;
+	padding-right: 36px;	
+    display: flex;
+}
+
+.ime-accordion-container h2 {
+	padding-left: 36px;
+	padding-right: 36px;
+}
+
+.ime-accordion-container .pagination a{
+    padding-right: 15px;
+}

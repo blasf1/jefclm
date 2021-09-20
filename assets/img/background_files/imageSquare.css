@@ -1,0 +1,56 @@
+/*---------------------------------- image-square  ---------------------------------*/
+
+.image-square {
+    margin: 20px;
+    width: calc(calc(100% - calc(40px * 3)) / 3);
+    height: 250px;
+    min-width: 200px;
+    min-height: 200px;
+    display: flex;
+    align-items:flex-end;
+    background-blend-mode: overlay;
+    background-size: cover;
+}
+
+.image-square[data-index="0"],
+.image-square[data-index="1"],
+.image-square[data-index="2"]{
+	margin-top: 0px;
+}
+
+@media only screen and (max-width: 980px) {
+    .image-square {
+        width: calc(calc(calc(100vw - 72px) - calc(40px * 2)) / 2);
+    }
+
+	.image-square[data-index="2"] {
+		margin-top: 20px;
+	}
+}
+
+@media only screen and (max-width: 737px) {
+    .image-square {
+        width: calc(calc(calc(100vw - 72px) - calc(40px * 1)) / 1);
+    }
+
+	.image-square[data-index="1"]
+	.image-square[data-index="2"] {
+		margin-top: 20px;
+	}
+
+}
+
+.ime-accordion-button {
+    cursor: pointer;
+}
+
+.image-square .ime-accordion-button{
+    background: rgba(0, 0, 0, 0.35);
+}
+
+.image-square .ime-accordion-button:hover,
+.image-square .ime-accordion-open,
+.image-square .ime-accordion-opening,
+.image-square .ime-accordion-closing{
+    background: rgba(0,204, 102, 0.35);
+}
