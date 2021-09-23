@@ -27,12 +27,7 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
 
-  <!-- =======================================================
-  * Template Name: Green - v4.5.0
-  * Template URL: https://bootstrapmade.com/green-free-one-page-bootstrap-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
+
 </head>
 
 <body>
@@ -55,8 +50,7 @@
   <header id="header" class="d-flex align-items-center">
     <div class="container d-flex align-items-center">
 
-      <!--<h1 class="logo me-auto"><a href="index.html">Green</a></h1>--!>
-      <!-- Uncomment below if you prefer to use an image logo -->
+      <!-- LOGO -->
       <a href="index.html" class="logo me-auto"><img src="assets/img/JEF_CLM.png" alt="" class="img-fluid"></a>
 
       <nav id="navbar" class="navbar">
@@ -492,7 +486,34 @@
 
           <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
             <div class="info">
-              <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScUTnCO-B7dTA3DalX0f5SmXUi3aR9O_NXXs_grHbTofMZunQ/viewform?embedded=true" width="640" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+              <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch"></div>
+              <!-- modify this form HTML and place wherever you want your form -->
+              <form action="https://formspree.io/f/meqvndqv" method="POST">
+                <div class="row">
+                  <div class="form-group col-md-6">
+                    <label for="name">
+                    Tu email:
+                    </label>
+                    <input type="email" class="form-control" name="_replyto" required>
+                  </div>
+                
+                  <div class="form-group col-md-6">
+                    <label for="name">
+                    Nombre completo:
+                    </label>
+                    <input type="name" class="form-control" name="full-name" required>
+                  </div>
+                <div class="form-group mt-3">
+                  <label for="name">Tu mensaje:</label>
+                  <textarea class="form-control" name="message" rows="7" required></textarea>
+                </div>
+
+                <!-- your other form fields go here -->
+                <div class="text-center"><button type="submit">Enviar</button></div>
+              </form>
+              </div>
+
+              
             </div>
           </div>
 
