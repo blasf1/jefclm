@@ -6,12 +6,12 @@ url: 'http://www.jefclm.eu'
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/jefclm"
+baseurl: ""
 
-permalink: /:title/
+#permalink: /:title/
 
 # The release of Jekyll Now that you're using
-version: v1.2.0
+version: v3.0.0
 
 # Jekyll 3 now only supports Kramdown for Markdown
 kramdown:
