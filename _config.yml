@@ -39,5 +39,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  - index.html
   - portfolio-details.html
