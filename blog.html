@@ -1,7 +1,7 @@
 ---
 layout: blog-layout
 ---
-
+<section id="blog">
 <div class="container">
       <div class="posts">
         {% for post in site.posts %}
@@ -9,7 +9,7 @@ layout: blog-layout
             <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       
             <div class="entry">
-              {{ post.content | strip_html | truncatewords: 50 }}
+              {{ post.content | truncatewords: 50 }}
             </div>
       
             <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
@@ -17,3 +17,4 @@ layout: blog-layout
         {% endfor %}
       </div>
 </div>
+</section>
