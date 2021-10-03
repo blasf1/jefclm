@@ -2,9 +2,8 @@
 layout: post
 title: ¿Qué se celebra en el día de Europa?
 author: Jorge Romanillos
+fecha: 9 de mayo de 2021
 ---
-
-_9 de mayo de 2021_
 
 ¿Qué celebramos hoy, 9 de mayo, día de Europa? ¿Por qué Europa habría de ser un motivo de celebración? Para entenderlo, veamos un poco de historia:
 
