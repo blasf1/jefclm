@@ -2,9 +2,10 @@
 layout: blog-layout
 ---
 
-<div class="post">
+<div class="post" style="width: 70%;">
     <h1>{{ page.title }}</h1>
-
+<p style="font-style: italic;">Por: {{ page.author }}</p>
+<!-- <p style="font-style: italic;">{{ page.date }}</p> -->
 {{ content }}
 
 </div>
