@@ -5,7 +5,7 @@ author: Celia Martínez
 fecha: 10 de octubre de 2021
 ---
 
-Los pasados 26, 27 y 28 de septiembre tuvo lugar congreso “Y-FED: Europe is what you(th) make of it”. Se trata de un proyecto que busca que los jóvenes se acerquen a la Unión Europea, despertar su inquietud y motivarlos para proponer y propulsar medidas que mejoren el funcionamiento de las instituciones europeas y, especialmente, su compromiso con la juventud. Es una iniciativa financiada por Erasmus+ “European Youth Together” y Global Challenge Foundation.
+Los pasados 26, 27 y 28 de septiembre tuvo lugar el congreso “Y-FED: Europe is what you(th) make of it”. Se trata de un proyecto que busca que los jóvenes se acerquen a la Unión Europea, despertar su inquietud y motivarlos para proponer y propulsar medidas que mejoren el funcionamiento de las instituciones europeas y, especialmente, su compromiso con la juventud. Es una iniciativa financiada por Erasmus+ “European Youth Together” y Global Challenge Foundation.
 
 <img src="{{ site.baseurl }}/assets/img/posts/2021-10-9-YFED-bruselas/IMG.png" alt="drawing" style="width:75%;"/>
 
