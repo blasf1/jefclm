@@ -21,7 +21,10 @@ La salida del Reino Unido de la UE supone la supresión de todo acuerdo y derech
 
 La UE puede considerarse como el último estadio de las ideas que los Padres de Europa presentaron al continente hace siete décadas. Si nos pidieran definir con una palabra a la UE, no haría falta buscar mucho; en su nombre está la respuesta: «Unión». Europa ha prosperado como continente durante todos estos años gracias a la cooperación, al respeto y al trabajo, y ello debido a que los países ―y, sobre todo, las regiones― lo han podido hacer posible. De esta gran hazaña también formó parte el Reino Unido. Por desgracia, los euroescépticos han nublado con humo esa gran historia, pero la situación de Irlanda del Norte y de otras regiones como Escocia nos hace ver clarísimamente lo presente que está la UE y lo importante que es para cualquier territorio de «los Veintisiete».
 
-Más información:
+#### Más información:
+
 [El Backstop y la Frontera Irlandesa](https://www.elconfidencial.com/multimedia/video/mundo/2019-09-14/el-backstop-y-la-frontera-irlandesa-el-elefante-del-brexit_2229623/)
+
 [La UE hace cesiones para salvar el acuerdo de Irlanda y Londres lo torpedea](https://www.elconfidencial.com/mundo/europa/2021-10-13/la-ue-hace-cesiones-para-salvar-el-acuerdo-de-irlanda-mientras-londres-lo-torpedea_3305817/)
+
 [La declaración de Schuman](https://audiovisual.ec.europa.eu/en/video/I-030391)
