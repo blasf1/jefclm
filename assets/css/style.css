@@ -1358,3 +1358,31 @@ td {
   border: 1px solid grey;
   vertical-align: center;
 }
+
+/*--------------------------------------------------------------
+# CoFoE
+--------------------------------------------------------------*/
+.cofoe-section {
+  text-align: center;
+  vertical-align: center;
+}
+.cofoe-button {
+  font-weight: 500;
+  font-size: 16px;
+  padding: 14px 14px;
+  border-radius: 4px;
+  transition: 0.5s;
+  line-height: 1.5;
+  color: #fff;
+  -webkit-animation-delay: 0.8s;
+  animation-delay: 0.8s;
+  vertical-align: center;
+  background: #5cb874;
+  max-width: 400px;
+  margin: 6px 6px;
+}
+
+.cofoe-button:hover {
+  background-color: #449d5b;
+  color: white;
+}
