@@ -7,8 +7,10 @@ fecha: 23 de octubre de 2021
 
 Los pilares de la paz en Europa han presentado durante los últimos años una grieta llamada «Irlanda del Norte». Este problema solo ha hecho que proliferen las soluciones que aporta la Unión Europea (UE). A los aliados del Brexit y a sus propulsores les ha salido el tiro por la culata. Para entenderlo todo, hay que introducir un contexto.
 
-<img src="{{ site.baseurl }}/assets/img/posts/2021-10-23-Europa-es-un-puzzle/brexit-puzzle.jpg" alt="drawing" style="width:75%;"/>
-_Imagen de El Confidencial_
+<figure>
+<img src="{{ site.baseurl }}/assets/img/posts/2021-10-23-Europa-es-un-puzzle/brexit-puzzle.jpg" alt="drawing" style="width:75%;" />
+<figcaption>Imagen de El Confidencial</figcaption>
+</figure>
 
 Tras la Segunda Guerra Mundial, Europa fue invadida por un espíritu de desilusión y desesperación. Los europeos llevaban siglos sin ser capaces de vivir en armonía, y hacían del continente su campo de maniobras bélicas. No obstante, el ministro de Asuntos Exteriores de Francia, Robert Schuman, en 1950 aportó un aliento esperanzador al continente con la Declaración que lleva su nombre. ¿Quién iba a pensar que, después de lo que sucedió, tanto alemanes como franceses trabajaran juntos para reconstruir las ciudades derruidas? La respuesta a esta pregunta es la creación de la Comunidad Económica del Carbón y del Acero en 1951, y con este acto comenzó todo.
 
