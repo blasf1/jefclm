@@ -8,7 +8,7 @@ fecha: 6 de diciembre de 2021
 Los días 3 y 4 de diciembre, desde las secciones de Castilla-La Mancha y Madrid, realizamos un encuentro presencial en la ciudad de Cuenca, donde no solo tuvimos la oportunidad de debatir y aprender sobre actualidad europea, pero también de crear y compartir momentos entre socios JEFers.
 
 <figure>
-<img src="{{ site.baseurl }}/assets/img/posts/2021-12-01-Encuentro-JEF-CLM-JEF-Madrid/1.jpg" alt="drawing" style="width:75%;" />
+<img src="{{ site.baseurl }}/assets/img/posts/2021-12-06-Encuentro-JEF-CLM-JEF-Madrid/1.jpg" alt="drawing" style="width:75%;" />
 <figcaption></figcaption>
 </figure>
 En nuestra llegada a Cuenca, la sección de Castilla-La Mancha se dio a conocer por las calles de la ciudad, realizando una actividad “advocacy” en el centro de Cuenca. Pudimos hablar con jóvenes (y no tan jóvenes) sobre que es JEF y el papel que juega en la Conferencia sobre el Futuro de Europa (CoFoE), y también recogimos ideas y propuestas de aquellos que se acercaron, donde comprobamos que la sostenibilidad, el empleo juvenil y el desarrollo tecnológico son los temas que mas preocupan entre los jóvenes. 
