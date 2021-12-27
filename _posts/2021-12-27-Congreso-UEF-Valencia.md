@@ -8,14 +8,14 @@ fecha: 27 de diciembre de 2021
 A principios de julio se celebró en Valencia el congreso anual de UEF Europa. Este evento reunió en la ciudad a delegados de todos los países en los que está activa la asociación.
 
 <figure>
-<img src="{{ site.baseurl }}/assets/img/posts/2021-10-23-Europa-es-un-puzzle/1.jpg" alt="drawing" style="width:75%;" />
+<img src="{{ site.baseurl }}/assets/img/posts/2021-12-27-Congreso-UEF-Valencia/1.jpg" alt="drawing" style="width:75%;" />
 <figcaption></figcaption>
 </figure>
 
 A lo largo de aquellos días se aprobó una resolución política que se puede consultar en la web de UEF, se eligieron los diferentes puestos necesarios para el funcionamiento de la asociación y se inauguró un mural cercano a la Ciudad de las Artes y las Ciencias enmarcado en el proyecto “Make Europe Bloom”.
 
 <figure>
-<img src="{{ site.baseurl }}/assets/img/posts/2021-10-23-Europa-es-un-puzzle/2.jpg" alt="drawing" style="width:75%;" />
+<img src="{{ site.baseurl }}/assets/img/posts/2021-12-27-Congreso-UEF-Valencia/2.jpg" alt="drawing" style="width:75%;" />
 <figcaption></figcaption>
 </figure>
 
@@ -27,7 +27,7 @@ que tuvo lugar en Valencia
 buscando una Europa mejor.
 
 <figure>
-<img src="{{ site.baseurl }}/assets/img/posts/2021-10-23-Europa-es-un-puzzle/3.jpg" alt="drawing" style="width:75%;" />
+<img src="{{ site.baseurl }}/assets/img/posts/2021-12-27-Congreso-UEF-Valencia/3.jpg" alt="drawing" style="width:75%;" />
 <figcaption></figcaption>
 </figure>
 
@@ -60,14 +60,14 @@ que, por su propio pie,
 jamás hubiera soñado lograr.”
 
 <figure>
-<img src="{{ site.baseurl }}/assets/img/posts/2021-10-23-Europa-es-un-puzzle/5.jpg" alt="drawing" style="width:75%;" />
+<img src="{{ site.baseurl }}/assets/img/posts/2021-12-27-Congreso-UEF-Valencia/5.jpg" alt="drawing" style="width:75%;" />
 <figcaption></figcaption>
 </figure>
 <figure>
-<img src="{{ site.baseurl }}/assets/img/posts/2021-10-23-Europa-es-un-puzzle/6.jpg" alt="drawing" style="width:75%;" />
+<img src="{{ site.baseurl }}/assets/img/posts/2021-12-27-Congreso-UEF-Valencia/6.jpg" alt="drawing" style="width:75%;" />
 <figcaption></figcaption>
 </figure>
 <figure>
-<img src="{{ site.baseurl }}/assets/img/posts/2021-10-23-Europa-es-un-puzzle/7.jpg" alt="drawing" style="width:75%;" />
+<img src="{{ site.baseurl }}/assets/img/posts/2021-12-27-Congreso-UEF-Valencia/7.jpg" alt="drawing" style="width:75%;" />
 <figcaption></figcaption>
 </figure>
