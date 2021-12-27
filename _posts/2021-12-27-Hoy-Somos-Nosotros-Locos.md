@@ -14,7 +14,7 @@ como Hirschmann, Monet o Spinelli,
 soñaban con crear.
 
 <figure>
-<img src="{{ site.baseurl }}/assets/img/posts/2021-12-27-Hoy-Somos-Nosotros-Locos/1.jpeg" alt="drawing" style="width:75%;" />
+<img src="{{ site.baseurl }}/assets/img/posts/2021-12-27-Hoy-Somos-Nosotros-Locos/1.jpg" alt="drawing" style="width:75%;" />
 <figcaption></figcaption>
 </figure>
 
@@ -28,7 +28,7 @@ para amoldar su sueño
 a la realidad.
 
 <figure>
-<img src="{{ site.baseurl }}/assets/img/posts/2021-12-27-Hoy-Somos-Nosotros-Locos/2.jpeg" alt="drawing" style="width:75%;" />
+<img src="{{ site.baseurl }}/assets/img/posts/2021-12-27-Hoy-Somos-Nosotros-Locos/2.jpg" alt="drawing" style="width:75%;" />
 <figcaption></figcaption>
 </figure>
 
