@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Curso sobre Autonomía Estratégica en el Escorial
+title: Curso sobre Autonomía Estratégica en El Escorial
 author: Jorge Romanillos
 fecha: 27 de diciembre de 2021
 ---
