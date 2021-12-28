@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Encuentro JEF CLM - JEF Madrid
-author: Jorge Romanillos
+author: Borja Mariscal
 fecha: 6 de diciembre de 2021
 ---
 
