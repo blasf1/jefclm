@@ -5,9 +5,9 @@ author: Jorge Romanillos
 fecha: 22 de enero de 2022
 ---
 
-Seguimos navegando esta pandemia y, si bien es verdad que tenemos menos incertidumbres que al principio, cuando todo era novedad, nadie puede decir todavía con certeza cuántas olas nos quedarán. Lo que sí sabemos es que se acumula una cierta fatiga social ante toda esta situación, así como que el impacto del Covid ha sido grande sobre la juventud, y no necesariamente tan visible como en otros segmentos de la población. Consciente de esta realidad, la Unión Europea ha designado este 2022 como el Año Europeo de la Juventud, un gesto simbólico y práctico para reconocer su esfuerzo y trasladarle su apoyo.
-
 <img src="{{ site.baseurl }}/assets/img/posts/2022-01-22-anio-europeo-juventud/img_1.png" alt="drawing" style="width:75%;"/>
+
+Seguimos navegando esta pandemia y, si bien es verdad que tenemos menos incertidumbres que al principio, cuando todo era novedad, nadie puede decir todavía con certeza cuántas olas nos quedarán. Lo que sí sabemos es que se acumula una cierta fatiga social ante toda esta situación, así como que el impacto del Covid ha sido grande sobre la juventud, y no necesariamente tan visible como en otros segmentos de la población. Consciente de esta realidad, la Unión Europea ha designado este 2022 como el Año Europeo de la Juventud, un gesto simbólico y práctico para reconocer su esfuerzo y trasladarle su apoyo.
 
 Esta decisión no resulta una anomalía en la historia de la UE, que ha sabido a lo largo de las últimas décadas entender la relevancia que tiene cuidar a sus jóvenes, y que además lo ha demostrado a través de políticas destinadas a ayudarlos a estudiar, a viajar y a encontrar trabajo, así como a pasarlo bien y a establecer relaciones con personas de toda Europa, con la consiguiente generación de identidad que ello supone.
 
