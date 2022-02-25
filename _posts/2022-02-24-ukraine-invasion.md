@@ -12,10 +12,10 @@ Con la reciente ocupación ilegal y los ataques hostiles en las regiones ucrania
 
 Apelamos por que la UE:
 
-    * Provea  urgentemente ayuda humanitaria y asistencia económica donde sea necesario,
-    * Promueva la cooperación en seguridad, haciendo uso del Fondo Europeo de Apoyo a la Paz,
-    * Imponga inmediatamente sanciones firmes y necesarias contra Rusia,
-    * Continue permitiendo a los ciudadanos ucranianos la entrada en el territorio de la UE sin la necesidad de visados y mediante el proceso de vía rápida de asilo para refugiados ucranianos.
+- Provea urgentemente ayuda humanitaria y asistencia económica donde sea necesario,
+- Promueva la cooperación en seguridad, haciendo uso del Fondo Europeo de Apoyo a la Paz,
+- Imponga inmediatamente sanciones firmes y necesarias contra Rusia,
+- Continue permitiendo a los ciudadanos ucranianos la entrada en el territorio de la UE sin la necesidad de visados y mediante el proceso de vía rápida de asilo para refugiados ucranianos.
 
 Toda organización adherida a esta declaración continuará defendiendo la paz, la seguridad, la diplomacia y el estado de derecho. No podemos permanecer en silencio ante un gobierno que continúa agrediendo nuestros principios fundamentales.
 
