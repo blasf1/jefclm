@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Declaración conjunta: La juventud europea condena la agresión rusa y apoya el futuro de Ucrania
+title: Declaración conjunta. La juventud europea condena la agresión rusa y apoya el futuro de Ucrania
 fecha: 24 de febrero de 2022
 ---
 
